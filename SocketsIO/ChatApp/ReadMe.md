@@ -1,0 +1,1 @@
+This is a simple Chat App (Text version) developed using Sockets.IO.
